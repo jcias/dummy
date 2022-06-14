@@ -6,7 +6,4 @@ and it's quite cool
 
 new content
 
-### I want trouble !!!
-
-This line is meant to cause problems
 
